@@ -6,4 +6,7 @@ Furthermore, as we are deploying this method on edge-devices, due to considering
 Once this project is completed, we wil publish our code here.
 
 Feng Zhao; Zhuo Wang*; Hanqiang Liu; Junjie Zhang; Qianqian Luo
+
+Xi’an University of Posts and Telecommunications; Shaanxi Normal University
+
 Zhuo Wang: kevinwang0913@163.com
